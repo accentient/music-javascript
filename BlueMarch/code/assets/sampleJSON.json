@@ -1,0 +1,14 @@
+[
+    {
+      "artist": "Britney Spears",
+      "track":"Oops I Did It Again",
+      "genre": "Pop",
+      "image":"assets/albumOops.jpg"
+    },
+	{
+      "artist": "Tim McGraw",
+      "track":"I Need You",
+      "genre": "Western",
+      "image":"assets/albumLetItGo.jpg"
+    }
+]
